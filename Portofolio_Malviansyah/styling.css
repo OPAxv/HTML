@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
 body{
     font-family: Arial, sans-serif;
     margin: 0;
@@ -102,6 +107,10 @@ button:hover {
 }
 h2{
     text-align: center;
+}
+p{
+    margin-bottom: 50px;
+    padding-bottom: 10px 50px;
 }
 
 /* bagian media sosial */
